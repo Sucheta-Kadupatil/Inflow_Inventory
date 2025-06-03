@@ -1,0 +1,35 @@
+1. Item Name/Code
+ 1: A new item can be created with a unique name and code.
+ 2: The item name cannot be a null value.
+
+2. Category
+ 1: A user can assign a category to an item.
+ 2: An item without a category can still be saved.
+ 3: A new category should be added successfully.
+
+3. Type
+ 1: An item type can be selected from predefined options.
+ 2: An invalid type cannot be entered manually.
+
+4. Picture
+ 1: A user can upload an image for an item.
+ 2: An invalid image format cannot be uploaded.
+
+5. Normal Price
+ 1: The normal price field accepts only numeric values.
+ 2: Negative values are not allowed in the price field.
+
+6. Costing Method
+ 1: A user can select a costing method from the available options.
+ 2: An item cannot be saved without a costing method.
+
+7. Location Column
+ 1: Users can add a new location.
+ 2: Duplicate location names are not allowed.
+ 3: Location names cannot be empty.
+
+8. Quantity Column
+ 1: The quantity field accepts only numeric values.
+ 2: Negative quantities are not allowed.
+ 3: The total quantity is correctly calculated for all locations.
+
