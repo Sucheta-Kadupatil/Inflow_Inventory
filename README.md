@@ -3,4 +3,4 @@ Inflow Inventory is a software application that helps businesses manage inventor
 Features of InFlow Inventory Application
 Inventory Management 
 Order and Sales management
-Suppliers and Customer Management]
+Suppliers and Customer Management
